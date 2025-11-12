@@ -51,13 +51,13 @@ function App() {
             EU/UK, I confirm I have read and understood the{" "}
             <span className="underline text-white">Privacy policy</span>
           </p>
-          <img className="max-w-md" src="public/neuron.webp" />
+          <img className="max-w-md" src="/neuron.webp" />
         </div>
         <div className="grid md:grid-cols-2 gap-12 px-8 md:px-20 py-16 mx-auto max-w-6xl">
           <div className="flex flex-col justify-center">
             <img
               className="bg-[#0d0f0f] rounded-lg px-15 py-5 w-110"
-              src="public/rewards.webp"
+              src="/rewards.webp"
             />
           </div>
           <div className="md:mt-57">
@@ -71,7 +71,7 @@ function App() {
           <div className="flex flex-col justify-center">
             <img
               className="bg-[#0d0f0f] rounded-lg px-35 py-5 md:h-80"
-              src="public/featured.webp"
+              src="/featured.webp"
             />
           </div>
           <div className="md:mt-60">
@@ -86,7 +86,7 @@ function App() {
           <div className="flex flex-col justify-center">
             <img
               className="bg-[#0d0f0f] rounded-lg px-15 py-5 w-110"
-              src="public/understand.webp"
+              src="/understand.webp"
             />
           </div>
           <div className="md:mt-57">
