@@ -98,7 +98,7 @@ function App() {
         </div>
         {/* footer */}
         <div className="flex flex-col items-center mt-60 mb-20 gap-5">
-          <img className="w-[180px]" src="public/base-build-logo.webp" />
+          <img className="w-[180px]" src="/base-build-logo.webp" />
           <div className="flex gap-6 text-sm text-gray-500">
             <a href="">Base Docs</a>
             <a href="">Privacy policy</a>
